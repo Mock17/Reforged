@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "reforged:tool/sword_guard",
+    "layer1": "reforged:tool/sword_blade"
+  }
+}
